@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author walters
+ *
+ */
+module EclipseTest {
+}
